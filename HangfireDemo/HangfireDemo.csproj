@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyVersion>21.7.0.77</AssemblyVersion>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+    <DockerComposeProjectPath>docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ModelDTO\**" />
+    <Compile Remove="Repository\**" />
+    <Compile Remove="Service\**" />
+    <Content Remove="ModelDTO\**" />
+    <Content Remove="Repository\**" />
+    <Content Remove="Service\**" />
+    <EmbeddedResource Remove="ModelDTO\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <EmbeddedResource Remove="Service\**" />
+    <None Remove="ModelDTO\**" />
+    <None Remove="Repository\**" />
+    <None Remove="Service\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.2.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="6.0.0" />
+    <PackageReference Include="Dapper.FluentMap" Version="2.0.0" />
+    <PackageReference Include="Hangfire.AspNetCore" Version="1.7.23" />
+    <PackageReference Include="Hangfire.Console" Version="1.4.2" />
+    <PackageReference Include="Hangfire.Core" Version="1.7.23" />
+    <PackageReference Include="Hangfire.Dashboard.BasicAuthorization" Version="1.0.2" />
+    <PackageReference Include="Hangfire.Dashboard.Management" Version="1.7.9" />
+    <PackageReference Include="Hangfire.MemoryStorage" Version="1.7.0" />
+    <PackageReference Include="Hangfire.MySqlStorage" Version="2.0.3" />
+    <PackageReference Include="Hangfire.SqlServer" Version="1.7.23" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
+    <PackageReference Include="MySql.Data" Version="8.0.25" />
+    <PackageReference Include="NLog" Version="4.7.10" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Pages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Service\Service.csproj" />
+  </ItemGroup>
+
+</Project>

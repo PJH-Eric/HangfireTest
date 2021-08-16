@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyVersion>21.7.0.30</AssemblyVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="Polly" Version="7.2.2" />
+  </ItemGroup>
+
+</Project>
