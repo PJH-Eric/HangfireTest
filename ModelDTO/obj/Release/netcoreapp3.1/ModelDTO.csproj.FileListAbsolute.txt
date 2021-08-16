@@ -1,0 +1,9 @@
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\bin\Release\netcoreapp3.1\ModelDTO.deps.json
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\bin\Release\netcoreapp3.1\ModelDTO.dll
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\bin\Release\netcoreapp3.1\ModelDTO.pdb
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\obj\Release\netcoreapp3.1\ModelDTO.csprojAssemblyReference.cache
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\obj\Release\netcoreapp3.1\ModelDTO.AssemblyInfoInputs.cache
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\obj\Release\netcoreapp3.1\ModelDTO.AssemblyInfo.cs
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\obj\Release\netcoreapp3.1\ModelDTO.csproj.CoreCompileInputs.cache
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\obj\Release\netcoreapp3.1\ModelDTO.dll
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\obj\Release\netcoreapp3.1\ModelDTO.pdb

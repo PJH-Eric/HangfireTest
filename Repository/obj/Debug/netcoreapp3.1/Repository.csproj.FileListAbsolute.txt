@@ -1,0 +1,9 @@
+D:\Eric\SidePJ\HangfireDemo\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\Eric\SidePJ\HangfireDemo\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\Eric\SidePJ\HangfireDemo\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Eric\SidePJ\HangfireDemo\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\Eric\SidePJ\HangfireDemo\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\Eric\SidePJ\HangfireDemo\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+D:\Eric\SidePJ\HangfireDemo\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\Eric\SidePJ\HangfireDemo\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+D:\Eric\SidePJ\HangfireDemo\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache

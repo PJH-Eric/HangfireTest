@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "olzgSuDOUijBaIXhwQkJlMwioxwHS4qaUYgzEYzK5H+gBXMKf7V1/aIWsVhfLyRwrKbGNz1Rxh8ubqvCXaQc9g==",
+  "success": true,
+  "projectFilePath": "D:\\Eric\\SidePJ\\HangfireDemo\\ModelDTO\\ModelDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eric\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\Eric\\.nuget\\packages\\dapper.fluentmap\\2.0.0\\dapper.fluentmap.2.0.0.nupkg.sha512",
+    "C:\\Users\\Eric\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Eric\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

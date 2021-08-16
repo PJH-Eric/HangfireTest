@@ -1,0 +1,5 @@
+D:\Eric\SidePJ\HangfireDemo\Repository\bin\Release\netcoreapp3.1\publish\Repository.dll
+D:\Eric\SidePJ\HangfireDemo\Repository\bin\Release\netcoreapp3.1\publish\Repository.deps.json
+D:\Eric\SidePJ\HangfireDemo\Repository\bin\Release\netcoreapp3.1\publish\Repository.pdb
+D:\Eric\SidePJ\HangfireDemo\Repository\bin\Release\netcoreapp3.1\publish\Dapper.dll
+D:\Eric\SidePJ\HangfireDemo\Repository\bin\Release\netcoreapp3.1\publish\Polly.dll

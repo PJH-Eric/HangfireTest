@@ -1,0 +1,14 @@
+D:\Eric\SidePJ\HangfireDemo\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Eric\SidePJ\HangfireDemo\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Eric\SidePJ\HangfireDemo\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Eric\SidePJ\HangfireDemo\Service\bin\Debug\netcoreapp3.1\ModelDTO.dll
+D:\Eric\SidePJ\HangfireDemo\Service\bin\Debug\netcoreapp3.1\Repository.dll
+D:\Eric\SidePJ\HangfireDemo\Service\bin\Debug\netcoreapp3.1\ModelDTO.pdb
+D:\Eric\SidePJ\HangfireDemo\Service\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Eric\SidePJ\HangfireDemo\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Eric\SidePJ\HangfireDemo\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Eric\SidePJ\HangfireDemo\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Eric\SidePJ\HangfireDemo\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Eric\SidePJ\HangfireDemo\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Eric\SidePJ\HangfireDemo\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Eric\SidePJ\HangfireDemo\Service\obj\Debug\netcoreapp3.1\Service.pdb

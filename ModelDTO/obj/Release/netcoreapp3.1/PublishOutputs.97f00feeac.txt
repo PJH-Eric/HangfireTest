@@ -1,0 +1,6 @@
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\bin\Release\netcoreapp3.1\publish\ModelDTO.dll
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\bin\Release\netcoreapp3.1\publish\ModelDTO.deps.json
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\bin\Release\netcoreapp3.1\publish\ModelDTO.pdb
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\bin\Release\netcoreapp3.1\publish\Dapper.dll
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\bin\Release\netcoreapp3.1\publish\Dapper.FluentMap.dll
+D:\Eric\SidePJ\HangfireDemo\ModelDTO\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
